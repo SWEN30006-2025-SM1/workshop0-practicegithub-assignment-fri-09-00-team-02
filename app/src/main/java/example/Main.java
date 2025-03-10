@@ -8,5 +8,8 @@ public class Main {
         System.out.println("multiply = " + calculator.multiply(3, 5));
         System.out.println("divide = " + calculator.divide(6, 3));
 
+        //new change
+        System.out.println("Hello");
+
     }
 }
