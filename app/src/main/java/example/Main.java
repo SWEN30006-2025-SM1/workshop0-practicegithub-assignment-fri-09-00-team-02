@@ -7,8 +7,9 @@ public class Main {
         System.out.println("add = " + calculator.add(3, 5));
         //Subtraction
         System.out.println("minus = " + calculator.minus(8, 2));
-
+        //Multiplication
         System.out.println("multiply = " + calculator.multiply(3, 5));
+        //Division
         System.out.println("divide = " + calculator.divide(6, 3));
 
         //new change
